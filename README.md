@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Júlia Benevides
 
-- 💙 Estudando Química Industrial e HTML5 
+- 💙 Estudando Química Industrial e Front End
 - 💙 Pronomes: ela/dela
 
 <div align="center">
